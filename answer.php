@@ -47,7 +47,7 @@
       </header>
       <main class="mdl-layout__content">
         <div class="right-image">
-          <img src="./images/pink-computer.png" /> alt="pink computer with two beige files shown screen, image"
+          <img src="./images/pink-computer.png" alt="pink computer with two beige files shown screen, image">
         </div>
         <div class="page-content">The answer is ...</div>
         <br />
